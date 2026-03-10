@@ -29,14 +29,4 @@ FROM `data-analytics-essentials-sc.ornikar.consumption`
 GROUP BY first_product
 ORDER BY number_users DESC;
 
-![Dashboard](ornikar_analysis.sql.)
-
-- La plupart des candidats achètent le produit **« Code pur »**.
-
-- La réussite à l'examen semble davantage liée à l'**engagement et à la pratique** qu'au type de produit.
-
-- Les candidats qui effectuent davantage de séries d'entraînement ont tendance à obtenir de meilleurs taux de réussite.
-
-- La **moyenne des scores obtenus aux 5 dernières séries d'entraînement** semble être un indicateur fiable de la préparation à l'examen.
-
   
