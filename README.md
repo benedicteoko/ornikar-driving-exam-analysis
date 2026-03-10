@@ -5,8 +5,8 @@ Analyse des données de formation à l'examen théorique du permis de conduire (
 
 ### Training Engagement
 
-![Dashboard](tableau_de_bord_consommation_ornikar.png)
+![Dashboard](dashboard_consumption_ornikar.png)
 
 ### Exam Results
 
-![Dashboard](tableau_de_bord_exam_ornikar.png)
+![Dashboard](dashboard_exam_ornikar.png)
