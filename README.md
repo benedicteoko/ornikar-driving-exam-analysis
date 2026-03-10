@@ -11,7 +11,6 @@ L'analyse porte sur l'engagement des candidats, leurs performances lors des entr
 ![Dashboard](dashboard_exam_ornikar.png)
 
 
-292
 ## Requêtes SQL
 
 Les requêtes SQL utilisées pour cette analyse sont disponibles dans le fichier suivant :
