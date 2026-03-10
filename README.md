@@ -10,11 +10,12 @@ L'analyse porte sur l'engagement des candidats, leurs performances lors des entr
 
 ![Dashboard](dashboard_exam_ornikar.png)
 
-## Key Insights
+- La plupart des candidats achètent le produit **« Code pur »**.
 
-- Most candidates purchase the **"Code pur"** product.
-- Exam success appears more related to **engagement and practice** than to product type.
-- Candidates who complete more practice series tend to achieve higher success rates.
-- The **average score on the last 5 practice series** appears to be a strong indicator of exam readiness.
+- La réussite à l'examen semble davantage liée à l'**engagement et à la pratique** qu'au type de produit.
+
+- Les candidats qui effectuent davantage de séries d'entraînement ont tendance à obtenir de meilleurs taux de réussite.
+
+- La **moyenne des scores obtenus aux 5 dernières séries d'entraînement** semble être un indicateur fiable de la préparation à l'examen.
 
   
