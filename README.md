@@ -10,6 +10,25 @@ L'analyse porte sur l'engagement des candidats, leurs performances lors des entr
 
 ![Dashboard](dashboard_exam_ornikar.png)
 
+
+292
+## Requêtes SQL
+
+Les requêtes SQL utilisées pour cette analyse sont disponibles dans le fichier suivant :
+
+- `ornikar_analysis.sql`
+
+Le jeu de données utilisé dans ce projet fait partie d'un jeu de données d'entraînement et ne peut être partagé publiquement. Cependant, toutes les requêtes SQL utilisées pour l'analyse sont incluses dans ce dépôt.
+###Exemple
+
+```sql
+SELECT
+  first_product,
+  COUNT(*) AS number_users
+FROM `data-analytics-essentials-sc.ornikar.consumption`
+GROUP BY first_product
+ORDER BY number_users DESC;
+
 ![Dashboard](ornikar_analysis.sql.)
 
 - La plupart des candidats achètent le produit **« Code pur »**.
