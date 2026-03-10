@@ -1,0 +1,22 @@
+-- Répartition des produits achetés
+SELECT
+first_product,
+COUNT(*) AS number_users
+FROM `data-analytics-essentials-sc.ornikar.consumption`
+GROUP BY first_product;
+
+-- Résultats d'examen
+SELECT
+exam_status,
+COUNT(*) AS number_candidates
+FROM `data-analytics-essentials-sc.ornikar.exam`
+GROUP BY exam_status;
+
+-- Score moyen selon le résultat
+SELECT
+e.exam_status,
+AVG(c.score_5_last_series) AS avg_score
+FROM `data-analytics-essentials-sc.ornikar.consumption` c
+JOIN `data-analytics-essentials-sc.ornikar.exam` e
+ON c.user_id = e.user_id
+GROUP BY e.exam_status;
