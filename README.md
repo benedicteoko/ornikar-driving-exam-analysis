@@ -8,7 +8,7 @@ L'objectif est de comprendre l'engagement des candidats et d'identifier les fact
 
 🚀 Découvrez le tableau de bord interactif :
 
-👉 https://lookerstudio.google.com/reporting/(https://lookerstudio.google.com/reporting/6bd8fea1-d1b3-4583-a969-183af3b98189)
+👉 [Open the Looker Studio Dashboard](https://lookerstudio.google.com/reporting/6bd8fea1-d1b3-4583-a969-183af3b98189)
 
 
 ## Requêtes SQL
