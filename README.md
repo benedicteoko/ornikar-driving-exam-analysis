@@ -2,14 +2,6 @@ Ce projet analyse les données d'entraînement de la plateforme d'examen théori
 
 L'analyse porte sur l'engagement des candidats, leurs performances lors des entraînements et les facteurs comportementaux associés à la réussite à l'examen.
 
-### Training Engagement
-
-![Dashboard](dashboard_consumption_ornikar.png)
-
-### Exam Results
-
-![Dashboard](dashboard_exam_ornikar.png)
-
 ## Tableau de bord interactif
 
 Le tableau de bord interactif complet est disponible ici :
