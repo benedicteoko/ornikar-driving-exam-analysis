@@ -29,6 +29,21 @@ FROM `data-analytics-essentials-sc.ornikar.consumption`
 GROUP BY first_product
 ORDER BY number_users DESC;
 ```
+## Aperçu du tableau de bord
+
+### Engagement dans la formation
+
+![Dashboard](dashboard_consumption_ornikar.png)
+
+### Résultats d'examen
+
+![Dashboard](dashboard_exam_ornikar.png)
+
+## Tableau de bord interactif
+
+Le tableau de bord interactif complet est disponible ici :
+
+🔗 [Ouvrir le tableau de bord Looker Studio](https://lookerstudio.google.com/reporting/6bd8fea1-d1b3-4583-a969-183af3b98189)
 
 - La plupart des candidats achètent le produit **Code pur**.
 - La réussite à l'examen semble davantage liée à **l'engagement et à la pratique** qu'au type de produit.
