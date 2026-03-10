@@ -1,12 +1,14 @@
-Ce projet analyse les données d'entraînement de la plateforme d'examen théorique du permis de conduire d'Ornikar à l'aide de SQL (BigQuery) et de Looker Studio.
+## Présentation du projet
 
-L'analyse porte sur l'engagement des candidats, leurs performances lors des entraînements et les facteurs comportementaux associés à la réussite à l'examen.
+Ce projet analyse les données d'entraînement de la plateforme d'examen théorique du permis de conduire d'Ornikar.
+
+L'objectif est de comprendre l'engagement des candidats et d'identifier les facteurs associés à la réussite à l'examen théorique du permis de conduire.
 
 ## Tableau de bord interactif
 
-Le tableau de bord interactif complet est disponible ici :
+🚀 Découvrez le tableau de bord interactif :
 
-🔗 [Ouvrir le tableau de bord Looker Studio](https://lookerstudio.google.com/reporting/6bd8fea1-d1b3-4583-a969-183af3b98189)
+👉 https://lookerstudio.google.com/reporting/(https://lookerstudio.google.com/reporting/6bd8fea1-d1b3-4583-a969-183af3b98189)
 
 
 ## Requêtes SQL
@@ -32,3 +34,11 @@ ORDER BY number_users DESC;
 - La réussite à l'examen semble davantage liée à **l'engagement et à la pratique** qu'au type de produit.
 - Les candidats qui effectuent davantage de séries d'entraînement ont tendance à obtenir de meilleurs taux de réussite.
 - La moyenne des scores obtenus aux **5 dernières séries d'entraînement** semble être un indicateur fiable du niveau de préparation à l'examen.
+
+- ## Outils
+
+- SQL (BigQuery)
+- Looker Studio
+- GitHub
+
+- Analyse de données
