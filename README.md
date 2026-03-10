@@ -10,6 +10,8 @@ L'analyse porte sur l'engagement des candidats, leurs performances lors des entr
 
 ![Dashboard](dashboard_exam_ornikar.png)
 
+![Dashboard](ornikar_analysis.sql.)
+
 - La plupart des candidats achètent le produit **« Code pur »**.
 
 - La réussite à l'examen semble davantage liée à l'**engagement et à la pratique** qu'au type de produit.
