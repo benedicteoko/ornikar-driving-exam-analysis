@@ -18,8 +18,9 @@ Les requêtes SQL utilisées pour cette analyse sont disponibles dans le fichier
 
 - `ornikar_analysis.sql`
 
-Le jeu de données utilisé dans ce projet fait partie d'un jeu de données d'entraînement et ne peut être partagé publiquement. Cependant, toutes les requêtes SQL utilisées pour l'analyse sont incluses dans ce dépôt.
-###Exemple
+Le jeu de données utilisé dans ce projet fait partie d'un jeu de données d'entraînement et ne peut être partagé publiquement. Cependant, certaines requêtes SQL utilisées pour l'analyse sont incluses dans ce dépôt.
+
+Exemple
 
 ```sql
 SELECT
